@@ -1,0 +1,25 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/StreamingAssets/aa/*
+
+# IDE
+.vs/
+*.pidb
+*.suo
+*.user
+*.userprefs
+
+# Paquetes pesados (Vuforia y otros)
+Packages/*.tgz
+Packages/com.ptc.vuforia.engine-*.tgz
+
+# Artefactos de exportación
+*.apk
+*.aab
